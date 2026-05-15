@@ -13,5 +13,15 @@
   },
   "error": {
     "apiError": "죄송합니다. 오류가 발생했습니다. 다시 시도해 주세요."
+  },
+  "feedback": {
+    "popupTitle": "무엇이 잘못되었나요?",
+    "reasonIncorrect": "부정확함",
+    "reasonIncomplete": "불완전함",
+    "reasonNotHelpful": "도움이 되지 않음",
+    "reasonOther": "기타",
+    "commentPlaceholder": "자세히 알려주세요(선택)",
+    "submit": "보내기",
+    "thankYou": "피드백 감사합니다!"
   }
 }

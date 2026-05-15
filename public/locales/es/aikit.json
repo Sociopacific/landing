@@ -13,5 +13,15 @@
   },
   "error": {
     "apiError": "Lo sentimos, ocurrió un error. Por favor, inténtalo de nuevo."
+  },
+  "feedback": {
+    "popupTitle": "¿Qué salió mal?",
+    "reasonIncorrect": "Inexacto",
+    "reasonIncomplete": "Incompleto",
+    "reasonNotHelpful": "No es útil",
+    "reasonOther": "Otro",
+    "commentPlaceholder": "Cuéntanos más (opcional)",
+    "submit": "Enviar",
+    "thankYou": "¡Gracias por tu opinión!"
   }
 }

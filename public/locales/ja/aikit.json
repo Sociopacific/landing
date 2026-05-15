@@ -13,5 +13,15 @@
   },
   "error": {
     "apiError": "申し訳ありませんが、エラーが発生しました。もう一度お試しください。"
+  },
+  "feedback": {
+    "popupTitle": "何が問題でしたか？",
+    "reasonIncorrect": "不正確",
+    "reasonIncomplete": "不完全",
+    "reasonNotHelpful": "役に立たない",
+    "reasonOther": "その他",
+    "commentPlaceholder": "詳しく教えてください（任意）",
+    "submit": "送信",
+    "thankYou": "フィードバックをありがとうございます！"
   }
 }

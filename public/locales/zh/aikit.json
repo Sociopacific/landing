@@ -13,5 +13,15 @@
   },
   "error": {
     "apiError": "抱歉，发生错误。请重试。"
+  },
+  "feedback": {
+    "popupTitle": "出了什么问题？",
+    "reasonIncorrect": "不准确",
+    "reasonIncomplete": "不完整",
+    "reasonNotHelpful": "没有帮助",
+    "reasonOther": "其他",
+    "commentPlaceholder": "告诉我们更多（可选）",
+    "submit": "发送",
+    "thankYou": "感谢您的反馈！"
   }
 }

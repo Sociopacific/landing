@@ -13,5 +13,15 @@
   },
   "error": {
     "apiError": "Sorry, an error occurred. Please try again."
+  },
+  "feedback": {
+    "popupTitle": "What went wrong?",
+    "reasonIncorrect": "Inaccurate",
+    "reasonIncomplete": "Incomplete",
+    "reasonNotHelpful": "Not helpful",
+    "reasonOther": "Other",
+    "commentPlaceholder": "Tell us more (optional)",
+    "submit": "Send",
+    "thankYou": "Thanks for your feedback!"
   }
 }

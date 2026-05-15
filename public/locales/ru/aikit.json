@@ -13,5 +13,15 @@
   },
   "error": {
     "apiError": "Произошла ошибка. Пожалуйста, попробуйте снова."
+  },
+  "feedback": {
+    "popupTitle": "Что было не так?",
+    "reasonIncorrect": "Неточно",
+    "reasonIncomplete": "Неполный ответ",
+    "reasonNotHelpful": "Не помог",
+    "reasonOther": "Другое",
+    "commentPlaceholder": "Расскажите подробнее (необязательно)",
+    "submit": "Отправить",
+    "thankYou": "Спасибо за отзыв!"
   }
 }
