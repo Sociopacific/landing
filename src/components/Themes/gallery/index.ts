@@ -5,8 +5,17 @@ import orange from './orange.meta.json';
 import retroWaveRadio from './retro-wave-radio.meta.json';
 import {type ThemeMetadata, type ThemePayload, validateThemeMetadata} from './schema';
 import tea from './tea.meta.json';
+import testovayaTema from './testovaya-tema.meta.json';
 
-const RAW_META: unknown[] = [baseline, coffee, dustOlive, orange, retroWaveRadio, tea];
+const RAW_META: unknown[] = [
+    baseline,
+    coffee,
+    dustOlive,
+    orange,
+    retroWaveRadio,
+    tea,
+    testovayaTema,
+];
 
 RAW_META.forEach(validateThemeMetadata);
 

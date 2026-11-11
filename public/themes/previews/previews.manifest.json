@@ -41,6 +41,13 @@
                 "light": "74f73f49debe5702bacc5bc1562a9f48efde786bee06712165b6d9fc0e6659ec",
                 "dark": "2f3e4c1c9f6dd8c4a7ad1678c74b6d21ee1820b3e09ff12a9872b3bedb8dc0b8"
             }
+        },
+        "testovaya-tema": {
+            "themeHash": "02ca22264cf6e22069d838d766157bde7563537a6113c075468713b5f279189a",
+            "files": {
+                "light": "f84caab74bb0b05975a3831112edfab0f5f0fefedde474d2506fb44e60c1c4e1",
+                "dark": "194feb2e0167d90595442d0127ab93cce191236584248e24fefbb2494007b33e"
+            }
         }
     },
     "generatedAt": "pinned"
