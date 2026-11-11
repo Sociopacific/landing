@@ -1,0 +1,17 @@
+{
+    "$schema": "./meta.schema.json",
+    "id": "eshche-odna-klassnaya-tema",
+    "name": "Еще одна классная тема",
+    "author": {
+        "name": "Aleksandr Iakimov",
+        "url": "https://github.com/Sociopacific"
+    },
+    "description": {
+        "en": "Парапам",
+        "ru": "Парапам"
+    },
+    "tags": [
+        "modern"
+    ],
+    "brandColor": "#CBFF5C"
+}
